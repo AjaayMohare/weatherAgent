@@ -34,3 +34,5 @@ npm start
 ```
 
 JUST FOR FUN
+<img width="1536" height="291" alt="image" src="https://github.com/user-attachments/assets/adc390c3-466d-4964-b082-a120028a8740" />
+
